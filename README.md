@@ -1,4 +1,4 @@
-# CSS Exercises Tutorial at 4Geeks Academy
+# CSS Exercises Tutorial at 4Geeks Academy (NO REVISADO NI ACTUALIZADO README)
 <!-- hide -->
 <table>
   <tr>
